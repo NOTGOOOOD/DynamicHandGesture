@@ -20,6 +20,7 @@ This method supports recognizing multiple predefined static and dynamic gestures
 | ![rotate](img/cw&ccw.gif) | ![warp](img/left&right.gif) |
 | :-----------------: | :-----------------: |
 | rotation             | warping             |
+
 | ![rotate](img/open&close.gif) | ![warp](img/push&pull.gif) |
 | :-----------------: | :-----------------: |
 | open&close             | push&pull            |
