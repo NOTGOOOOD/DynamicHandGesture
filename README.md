@@ -2,7 +2,7 @@
  * @Author: xufeng
  * @Date: 2025-06-17 20:59:03
  * @LastEditors: xufeng
- * @LastEditTime: 2025-06-17 21:38:39
+ * @LastEditTime: 2025-06-17 21:41:22
  * @FilePath: /MyDHG/README.md
  * @Description: 
  * 
@@ -16,12 +16,10 @@
 This method supports recognizing multiple predefined static and dynamic gestures. The algorithm is very deployment friendly which doesn't require complex operator. And it's able to reach **30 FPS** in edge computing devices.
 
 ## Example
-<div style="display: flex; justify-content: space-between">
-  <img src="img/cw&ccw.gif" alt="rotate" style="width: 49%">
-  <img src="img/left&right.gif" alt="warp" style="width: 49%">
-</div>
 
-<div style="display: flex; justify-content: space-between">
-  <img src="img/open&close.gif" alt="op" style="width: 49%">
-  <img src="img/push&pull.gif" alt="push&pull" style="width: 49%">
-</div>
+| ![rotate](img/cw&ccw.gif) | ![warp](img/left&right.gif) |
+| :-----------------: | :-----------------: |
+| rotation             | warping             |
+| ![rotate](img/open&close.gif) | ![warp](img/push&pull.gif) |
+| :-----------------: | :-----------------: |
+| open&close             | push&pull            |
